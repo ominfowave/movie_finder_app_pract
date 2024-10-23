@@ -59,3 +59,9 @@ Click on a movie to view detailed information.
 OMDb API for movie data.
 Flutter community for resources and support.
    Feel free to customize the sections as needed!
+
+
+
+https://github.com/user-attachments/assets/4e05efc3-c5ab-4ac9-87e0-c49a22b7eff8
+
+
